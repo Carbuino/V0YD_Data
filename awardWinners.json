@@ -1,0 +1,120 @@
+{
+  "Big Booster": [
+    {"Name": "VikingStuds", "Type": 1, "ID": 3063379194, "Year": 2020},
+    {"Name": "SilentSeif", "Type": 1, "ID": 61508768, "Year": 2021},
+    {"Name": "ShortLivesAreReal", "Type": 1, "ID": 699329284, "Year": 2024},
+    {"Name": "SevWelp", "Type": 1, "ID": 0, "Year": 2025}
+  ],
+  "Big Donor": [
+    {"Name": "VikingStuds", "Type": 1, "ID": 3063379194, "Year": 2020},
+    {"Name": "brycecrispy", "Type": 1, "ID": 141762540, "Year": 2021},
+    {"Name": "SilentAlex", "Type": 1, "ID": 3721656352, "Year": 2024},
+    {"Name": "SevWelp", "Type": 1, "ID": 0, "Year": 2025}
+  ],
+  "Active Member": [
+    {"Name": "racheal_0440", "Type": 1, "ID": 418463641, "Year": 2020},
+    {"Name": "andy1sm", "Type": 1, "ID": 50346858, "Year": 2021},
+    {"Name": "AlisaurGamingYT", "Type": 1, "ID": 1437379480, "Year": 2022},
+    {"Name": "blauevgl", "Type": 1, "ID": 2771063657, "Year": 2025}
+  ],
+  "Active Staff": [
+    {"Name": "andy1sm", "Type": 1, "ID": 50346858, "Year": 2020},
+    {"Name": "slender001mann", "Type": 1, "ID": 8562506804, "Year": 2025}
+  ],
+  "Favourite Director": [
+    {"Name": "Liverpool43256", "Type": 1, "ID": 123486490, "Year": 2020},
+    {"Name": "ConflictedShadow", "Type": 1, "ID": 225468997, "Year": 2021},
+    {"Name": "propagandog", "Type": 1, "ID": 100299676, "Year": 2022},
+    {"Name": "AntiBallasticMissile", "Type": 1, "ID": 94454188, "Year": 2024},
+    {"Name": "toljonn", "Type": 1, "ID": 556016349, "Year": 2025}
+  ],
+  "Favourite Deputy Director": [
+    {"Name": "Slippy_Salmon", "Type": 1, "ID": 973579610, "Year": 2021},
+    {"Name": "brycecrispy", "Type": 1, "ID": 141762540, "Year": 2022},
+    {"Name": "TattletailHGL", "Type": 1, "ID": 264489344, "Year": 2024},
+    {"Name": "Spitfire", "Type": 1, "ID": 4488408763, "Year": 2025}
+  ],
+  "Seif, Luke, or Andy": [
+    {"Name": "SilentSeif", "Type": 1, "ID": 61508768, "Year": 2020},
+    {"Name": "SilentSeif", "Type": 1, "ID": 61508768, "Year": 2021},
+    {"Name": "SilentSeif", "Type": 1, "ID": 61508768, "Year": 2022},
+    {"Name": "SilentSeif", "Type": 1, "ID": 61508768, "Year": 2024},
+    {"Name": "SilentSeif", "Type": 1, "ID": 61508768, "Year": 2025}
+  ],
+  "Favourite Manager": [
+    {"Name": "John48124", "Type": 1, "ID": 3257797624, "Year": 2024},
+    {"Name": "Naschay", "Type": 1, "ID": 108707295, "Year": 2024},
+    {"Name": "TattletailHGL", "Type": 1, "ID": 264489344, "Year": 2025},
+    {"Name": "andy1sm", "Type": 1, "ID": 50346858, "Year": 2025},
+    {"Name": "mint_cke", "Type": 1, "ID": 85652757, "Year": 2025}
+  ],
+  "Favourite Developer": [
+    {"Name": "Carbuino", "Type": 1, "ID": 96508940, "Year": 2020},
+    {"Name": "andy1sm", "Type": 1, "ID": 50346858, "Year": 2021},
+    {"Name": "andy1sm", "Type": 1, "ID": 50346858, "Year": 2022},
+    {"Name": "Imperator_Luke", "Type": 1, "ID": 87241803, "Year": 2024},
+    {"Name": "andy1sm", "Type": 1, "ID": 50346858, "Year": 2025}
+  ],
+  "Favourite Moment": [
+    {"Name": "Antarctica WR Climb", "Type": 0, "ID": 0, "Year": 2021},
+    {"Name": "200k Members Celebration", "Type": 0, "ID": 0, "Year": 2024},
+    {"Name": "300k Members Celebration", "Type": 0, "ID": 0, "Year": 2025}
+  ],
+  "Favourite Mountain": [
+    {"Name": "Expedition Antarctica", "Type": 2, "ID": 2693023319, "Year": 2021},
+    {"Name": "Everest (RA)", "Type": 2, "ID": 13601390021, "Year": 2022},
+    {"Name": "Expedition Antarctica", "Type": 2, "ID": 2693023319, "Year": 2024},
+    {"Name": "Expedition Antarctica", "Type": 2, "ID": 2693023319, "Year": 2025}
+  ],
+  "Favourite Past HR": [
+    {"Name": "Flurry1012", "Type": 1, "ID": 464620636, "Year": 2022},
+    {"Name": "AntiBallasticMissile", "Type": 1, "ID": 94454188, "Year": 2024},
+    {"Name": "AntiBallasticMissile", "Type": 1, "ID": 94454188, "Year": 2025}
+  ],
+  "Favourite Staff": [
+    {"Name": "SilentBre", "Type": 1, "ID": 40220124, "Year": 2020},
+    {"Name": "propagandog", "Type": 1, "ID": 100299676, "Year": 2021},
+    {"Name": "propagandog", "Type": 1, "ID": 100299676, "Year": 2022},
+    {"Name": "NinjAzurYT", "Type": 1, "ID": 1174657047, "Year": 2024},
+    {"Name": "itsjust_aishxh", "Type": 1, "ID": 151011753, "Year": 2024},
+    {"Name": "slender001mann", "Type": 1, "ID": 8562506804, "Year": 2025}
+  ],
+  "Favourite Event Team Member": [
+    {"Name": "Axqium", "Type": 1, "ID": 540295346, "Year": 2025},
+    {"Name": "Dani", "Type": 1, "ID": 1098378658, "Year": 2025},
+    {"Name": "itskatedawg", "Type": 1, "ID": 3350937291, "Year": 2025}
+  ],
+  "Favourite Media Team Member": [
+    {"Name": "purplezzz", "Type": 1, "ID": 2297542068, "Year": 2025}
+  ],
+  "Favourite Guide": [
+    {"Name": "LostegaAlt2", "Type": 1, "ID": 1703953204, "Year": 2020},
+    {"Name": "propagandog", "Type": 1, "ID": 100299676, "Year": 2021},
+    {"Name": "brycecrispy", "Type": 1, "ID": 141762540, "Year": 2022},
+    {"Name": "ForestRiviere", "Type": 1, "ID": 404683534, "Year": 2022},
+    {"Name": "itsjust_aishxh", "Type": 1, "ID": 151011753, "Year": 2024},
+    {"Name": "purplezzz", "Type": 1, "ID": 2297542068, "Year": 2025}
+  ],
+  "Favourite Search and Rescue": [
+    {"Name": "lordblodemort", "Type": 1, "ID": 2802881020, "Year": 2024},
+    {"Name": "Spitfire", "Type": 1, "ID": 4488408763, "Year": 2025},
+    {"Name": "slender001mann", "Type": 1, "ID": 8562506804, "Year": 2025}
+  ],
+  "Uniform Contest Winner": [
+    {"Name": "Slippy_Salmon", "Type": 1, "ID": 973579610, "Year": 2024},
+    {"Name": "Nashvollei", "Type": 1, "ID": 7163876720, "Year": 2025},
+    {"Name": "Bmxor_Game", "Type": 1, "ID": 2207117986, "Year": 2025}
+  ],
+  "Favourite Member": [
+    {"Name": "VikingStuds", "Type": 1, "ID": 3063379194, "Year": 2020},
+    {"Name": "SilentBre", "Type": 1, "ID": 40220124, "Year": 2020},
+    {"Name": "Flurry1012", "Type": 1, "ID": 464620636, "Year": 2020},
+    {"Name": "locato35", "Type": 1, "ID": 283713541, "Year": 2020},
+    {"Name": "brycecrispy", "Type": 1, "ID": 141762540, "Year": 2020},
+    {"Name": "Tanstac", "Type": 1, "ID": 0, "Year": 2021},
+    {"Name": "Naschay", "Type": 1, "ID": 108707295, "Year": 2021},
+    {"Name": "Naschay", "Type": 1, "ID": 108707295, "Year": 2022},
+    {"Name": "Immortalflyy", "Type": 1, "ID": 127346835, "Year": 2024},
+    {"Name": "blauevgl", "Type": 1, "ID": 2771063657, "Year": 2025}
+  ]
+}
